@@ -4,6 +4,10 @@
 
 ### [算法学习路线](https://imanarron.github.io/algorithmpath)
 
+# LeetCode 题解
+
+### [1052. 爱生气的书店老板](https://imanarron.github.io/grumpy-bookstore-owner)
+
 
 # iOS
 

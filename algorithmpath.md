@@ -262,4 +262,308 @@ order: 0
 	
 	[有效的完全平方数](http://leetcode-cn.com/problems/valid-perfect-square/)
 	
+## 深度优先搜索和广度优先搜索
+
+1. 深度优先搜索、广度优先搜索的实现和特性
+
+	[DFS 代码模板（递归写法、非递归写法）](https://shimo.im/docs/UdY2UUKtliYXmk8t/)
 	
+	[BFS 代码模板](https://shimo.im/docs/ZBghMEZWix0Lc2jQ/)
+	
+2. 实战题目
+
+	[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description)（字节跳动、亚马逊、微软在半年内面试中考过）
+	
+	[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description)
+	
+	[括号生成](https://leetcode-cn.com/problems/generate-parentheses/#/description)（字节跳动、亚马逊、Facebook 在半年内面试中考过）
+	
+	[在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description)（微软、亚马逊、Facebook 在半年内面试中考过）
+	
+	[单词接龙](https://leetcode-cn.com/problems/word-ladder/description/)（亚马逊在半年内面试常考）
+	
+	[单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/description/) （微软、亚马逊、Facebook 在半年内面试中考过）
+	
+	[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)（近半年内，亚马逊在面试中考查此题达到 350 次）
+	
+	[扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/)（亚马逊、Facebook 在半年内面试中考过）
+	
+## 贪心算法
+
+1. 贪心的实现、特性及实战题目
+
+	[coin change 题目](https://leetcode-cn.com/problems/coin-change/)
+	
+	[动态规划定义](https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+	
+	[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)（亚马逊在半年内面试中考过）
+	
+	[买卖股票的最佳时机 II ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)（亚马逊、字节跳动、微软在半年内面试中考过）
+	
+	[分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/)（亚马逊在半年内面试中考过）
+	
+	[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/)
+	
+	[跳跃游戏](https://leetcode-cn.com/problems/jump-game/) （亚马逊、华为、Facebook 在半年内面试中考过）
+	
+	[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) （亚马逊、华为、字节跳动在半年内面试中考过）
+	
+## 二分查找
+
+1. 二分查找的实现和特性
+
+	[二分查找代码模板](https://shimo.im/docs/xvIIfeEzWYEUdBPD/)
+	
+	[Fast InvSqrt() 扩展阅读](https://www.beyond3d.com/content/articles/8/)
+	
+2. 实战题目
+
+	[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)（字节跳动、微软、亚马逊在半年内面试中考过）
+	
+	[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)（亚马逊在半年内面试中考过）
+	
+	[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（Facebook、字节跳动、亚马逊在半年内面试常考）
+	
+	[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)（亚马逊、微软、Facebook 在半年内面试中考过）
+	
+	[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)（亚马逊、微软、字节跳动在半年内面试中考过）
+	
+	[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/)（亚马逊在半年内面试中考过）
+	
+	[买卖股票的最佳时机 II ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/)（亚马逊、字节跳动、微软在半年内面试中考过）
+	
+	[分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/)（亚马逊在半年内面试中考过）
+	
+	[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/description/)
+	
+	[单词接龙](https://leetcode-cn.com/problems/word-ladder/description/)（亚马逊在半年内面试常考）
+	
+	[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)（近半年内，亚马逊在面试中考查此题达到 350 次）
+	
+	[扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/)（亚马逊、Facebook 在半年内面试中考过）
+	
+	[跳跃游戏](https://leetcode-cn.com/problems/jump-game/) （亚马逊、华为、Facebook 在半年内面试中考过）
+	
+	[单词接龙 II ](https://leetcode-cn.com/problems/word-ladder-ii/description/)（微软、亚马逊、Facebook 在半年内面试中考过）
+	
+	[跳跃游戏 II ](https://leetcode-cn.com/problems/jump-game-ii/)（亚马逊、华为、字节跳动在半年内面试中考过）
+	
+	[最长公共子序列题目](https://leetcode-cn.com/problems/longest-common-subsequence/)
+	
+	[三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)
+	
+	[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+	
+	[打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+	
+## 动态规划
+
+1. 动态规划的实现及关键点
+
+	[递归代码模板](https://shimo.im/docs/EICAr9lRPUIPHxsH)
+	
+	[分治代码模板](https://shimo.im/docs/zvlDqLLMFvcAF79A)
+	
+	[动态规划定义](https://en.wikipedia.org/wiki/Dynamic_programming)
+	
+	[MIT 动态规划课程最短路径算法](https://www.bilibili.com/video/av53233912?from=search&seid=2847395688604491997)
+	
+2. 实战题目
+
+	[不同路径](https://leetcode-cn.com/problems/unique-paths/)（Facebook、亚马逊、微软在半年内面试中考过）
+	
+	[不同路径 II ](https://leetcode-cn.com/problems/unique-paths-ii/)（谷歌、美团、微软在半年内面试中考过）
+	
+	[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)（字节跳动、谷歌、亚马逊在半年内面试中考过）
+	
+	[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/)（阿里巴巴、腾讯、字节跳动在半年内面试常考）
+	
+	[三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)（亚马逊、苹果、字节跳动在半年内面试考过）
+	
+	三角形最小路径和高票回答： [https://leetcode.com/problems/triangle/discuss/38735/Python-easy-to-understand-solutions-(top-down-bottom-up)](https://leetcode.com/problems/triangle/discuss/38735/Python-easy-to-understand-solutions-(top-down-bottom-up))
+	
+	[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)（亚马逊、字节跳动在半年内面试常考）
+	
+	[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/description/)（亚马逊、字节跳动、谷歌在半年内面试中考过）
+	
+	[零钱兑换](https://leetcode-cn.com/problems/coin-change/description/)（亚马逊在半年内面试中常考）
+	
+	[打家劫舍](https://leetcode-cn.com/problems/house-robber/)（字节跳动、谷歌、亚马逊在半年内面试中考过）
+	
+	[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) （字节跳动在半年内面试中考过）
+	
+	[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/#/description)（亚马逊、字节跳动、Facebook 在半年内面试中常考）
+	
+	[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) （亚马逊、字节跳动、微软在半年内面试中考过）
+	
+	[买卖股票的最佳时机 III ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)（字节跳动在半年内面试中考过）
+	
+	[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)（谷歌、亚马逊在半年内面试中考过）
+	
+	[买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) （谷歌、亚马逊、字节跳动在半年内面试中考过）
+	
+	[买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+	
+	[股票问题系列通解](https://leetcode-cn.com/circle/article/qiAgHn/)
+	
+	[完全平方数](https://leetcode-cn.com/problems/perfect-squares/)（亚马逊、谷歌在半年内面试中考过）
+	
+	[编辑距离](https://leetcode-cn.com/problems/edit-distance/) （重点）
+	
+	[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)（亚马逊在半年内面试中考过）
+	
+	[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) （亚马逊、华为字节跳动在半年内面试中考过）
+	
+	[不同路径](https://leetcode-cn.com/problems/unique-paths/)（Facebook、亚马逊、微软在半年内面试中考过）
+	
+	[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) （谷歌、美团、微软在半年内面试中考过）
+	
+	[不同路径 III ](https://leetcode-cn.com/problems/unique-paths-iii/)（谷歌在半年内面试中考过）
+	
+	[零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) （亚马逊、字节跳动在半年内面试中考过）
+	
+	[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)（亚马逊、高盛集团、谷歌在半年内面试中考过）
+	
+	[解码方法](https://leetcode-cn.com/problems/decode-ways)（亚马逊、Facebook、字节跳动在半年内面试中考过）
+	
+	[最大正方形](https://leetcode-cn.com/problems/maximal-square/)（华为、谷歌、字节跳动在半年内面试中考过）
+	
+	[任务调度器](https://leetcode-cn.com/problems/task-scheduler/)（Facebook 在半年内面试中常考）
+	
+	[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)（Facebook、苹果、字节跳动在半年内面试中考过）
+	
+	[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)（字节跳动、亚马逊、微软在半年内面试中考过）
+	
+	[矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)（谷歌在半年内面试中考过）
+	
+	[青蛙过河](https://leetcode-cn.com/problems/frog-jump/)（亚马逊、苹果、字节跳动在半年内面试中考过）
+	
+	[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)（谷歌、亚马逊、Facebook 在半年内面试中考过）
+	
+	[学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/) （谷歌在半年内面试中考过）
+	
+	[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)（Facebook 在半年内面试中常考）
+	
+	[戳气球](https://leetcode-cn.com/problems/burst-balloons/)（亚马逊在半年内面试中考过）
+	
+	[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/#/description)
+	
+	[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
+	
+	[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+	
+	[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/)
+	
+	[N 皇后](https://leetcode-cn.com/problems/n-queens/)
+	
+	[单词接龙](https://leetcode-cn.com/problems/word-ladder/)
+	
+	[二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)
+	
+## 字典树和并查集
+
+1. Trie 树的基本实现和特性
+
+	[二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+	
+	[实现 Trie](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/)
+	
+	[Trie 树代码模板](https://shimo.im/docs/DP53Y6rOwN8MTCQH)
+	
+2. 并查集的基本实现和特性
+
+	[并查集代码模板](https://shimo.im/docs/VtcxL0kyp04OBHak)
+	
+3. 实战题目
+
+	[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/#/description) （亚马逊、微软、谷歌在半年内面试中考过）
+	
+	[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/) （亚马逊、微软、苹果在半年内面试中考过）
+	
+	[省份数量](https://leetcode-cn.com/problems/number-of-provinces/)（亚马逊、Facebook、字节跳动在半年内面试中考过）
+	
+	[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)（近半年内，亚马逊在面试中考查此题达到 361 次）
+	
+	[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)（亚马逊、eBay、谷歌在半年内面试中考过）
+	
+## 高级搜索
+
+1. 剪枝的实现和特性
+
+	[DFS 代码模板](https://shimo.im/docs/UdY2UUKtliYXmk8t)
+	
+	[BFS 代码模板](https://shimo.im/docs/ZBghMEZWix0Lc2jQ)
+	
+	[AlphaZero Explained](https://nikcheerla.github.io/deeplearningschool/2018/01/01/AlphaZero-Explained/)
+	
+	[棋类复杂度](https://en.wikipedia.org/wiki/Game_complexity)
+	
+2. 双向 BFS 的实现、特性
+
+	[单词接龙](https://leetcode-cn.com/problems/word-ladder/)（亚马逊、Facebook、谷歌在半年内面试中考过）
+	
+	[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)（谷歌、Twitter、腾讯在半年内面试中考过）
+	
+3. 启发式搜索的实现、特性
+
+	[A* 代码模板](https://shimo.im/docs/8CzMlrcvbWwFXA8r)
+	
+	[相似度测量方法](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
+	
+	[二进制矩阵中的最短路径的 A* 解法](https://leetcode.com/problems/shortest-path-in-binary-matrix/discuss/313347/A*-search-in-Python)
+	
+	[8 puzzles 解法比较](https://zxi.mytechroad.com/blog/searching/8-puzzles-bidirectional-astar-vs-bidirectional-bfs/)
+	
+4. 实战题目
+
+	[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)（阿里巴巴、腾讯、字节跳动在半年内面试常考）
+	
+	[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)（亚马逊、Facebook、字节跳动在半年内面试中考过）
+	
+	[N 皇后](https://leetcode-cn.com/problems/n-queens/)（亚马逊、苹果、字节跳动在半年内面试中考过）
+	
+	[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/)（亚马逊、苹果、微软在半年内面试中考过）
+	
+	[解数独](https://leetcode-cn.com/problems/sudoku-solver/#/description)（亚马逊、华为、微软在半年内面试中考过）
+	
+	[二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)（亚马逊、字节跳动、Facebook 在半年内面试中考过）
+	
+	[滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/)（微软、谷歌、Facebook 在半年内面试中考过）	
+	
+	[解数独](https://leetcode-cn.com/problems/sudoku-solver/)（微软、华为、亚马逊在半年内面试中考过）
+	
+## 红黑树和 AVL 树
+
+1. 红黑树、AVL 树的实现和特性
+
+	[维基百科：平衡树](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
+	
+2. 实战题目
+
+	[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)（阿里巴巴、腾讯、字节跳动在半年内面试常考）
+	
+	[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/#/description) （亚马逊、微软、谷歌在半年内面试中考过）
+	
+	[省份数量](https://leetcode-cn.com/problems/number-of-provinces/)（亚马逊、Facebook、字节跳动在半年内面试中考过）
+	
+	[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)（近半年内，亚马逊在面试中考查此题达到 361 次）
+	
+	[被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)（亚马逊、eBay、谷歌在半年内面试中考过）
+	
+	[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/)（亚马逊、苹果、微软在半年内面试中考过）
+	
+	[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)（亚马逊、Facebook、字节跳动在半年内面试中考过）
+	
+	[单词接龙](https://leetcode-cn.com/problems/word-ladder/)（亚马逊、Facebook、谷歌在半年内面试中考过）
+	
+	[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)（谷歌、Twitter、腾讯在半年内面试中考过）
+	
+	[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/) （亚马逊、微软、苹果在半年内面试中考过）
+	
+	[N 皇后](https://leetcode-cn.com/problems/n-queens/)（亚马逊、苹果、字节跳动在半年内面试中考过）
+	
+	[解数独](https://leetcode-cn.com/problems/sudoku-solver/#/description)（亚马逊、华为、微软在半年内面试中考过）
+	
+	[LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/#/)
+	
+	[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
