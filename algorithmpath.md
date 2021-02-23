@@ -4,6 +4,16 @@ type: 算法学习路线
 order: 0
 ---
 
+## 时间服务度和空间复杂度分析
+
+[如何理解算法时间复杂度的表示法](http://www.zhihu.com/question/21387264)
+
+[Master theorem](http://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms))
+
+[主定理](http://zh.wikipedia.org/wiki/%E4%B8%BB%E5%AE%9A%E7%90%86)
+
+[数据结构与算法总览](https://pan.baidu.com/s/1rucC3q-9zD-lzs3yBkFU_g)（提取码：ykyn）
+	
 ## 数组、链表、跳表
 
 1. 数组、链表、跳表的基本实现和特性
