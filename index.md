@@ -6,6 +6,8 @@
 
 # LeetCode 题解
 
+### [42. 接雨水](https://imanarron.github.io/trapping-rain-water)
+
 ### [1052. 爱生气的书店老板](https://imanarron.github.io/grumpy-bookstore-owner)
 
 
