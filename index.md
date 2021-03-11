@@ -15,12 +15,20 @@
 
 ### [HomuraObfuscator -- OC 混淆工具](https://imanarron.github.io/homuraobfuscator)
 
+### [iOS 包大小二进制优化](https://imanarron.github.io/ios-app-binary-optimization)
+
 # 网络
 
 ### [网关取号原理解析](https://imanarron.github.io/oneloginprinciple)
+
+### [HTTP 及 TCP 流量控制](https://imanarron.github.io/http-tcp)
 
 # Github
 
 ### [GitHub 无法访问，443 Operation timed out 的解决办法](https://imanarron.github.io/github-443-resolution)
 
 ### [Git 常用命令清单](https://imanarron.github.io/git-cheat-sheet)
+
+# 操作系统
+
+### [内存管理](https://imanarron.github.io/memory-management)
