@@ -17,6 +17,10 @@
 
 ### [iOS 包大小二进制优化](https://imanarron.github.io/ios-app-binary-optimization)
 
+### [UAID 调试记录](https://imanarron.github.io/uaiddebug)
+
+### [framework缺少armv7架构问题分析](https://imanarron.github.io/frameworklostarmv7)
+
 # 网络
 
 ### [网关取号原理解析](https://imanarron.github.io/oneloginprinciple)
