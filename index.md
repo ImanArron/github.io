@@ -21,6 +21,8 @@
 
 ### [framework缺少armv7架构问题分析](https://imanarron.github.io/frameworklostarmv7)
 
+### [iOS 静态分析](https://imanarron.github.io/ios_static_analysis)
+
 # 网络
 
 ### [网关取号原理解析](https://imanarron.github.io/oneloginprinciple)
