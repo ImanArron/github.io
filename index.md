@@ -23,6 +23,8 @@
 
 ### [iOS 静态分析](https://imanarron.github.io/ios_static_analysis)
 
+### [iOS 逆向](https://imanarron.github.io/ios-dump)
+
 # 网络
 
 ### [网关取号原理解析](https://imanarron.github.io/oneloginprinciple)
