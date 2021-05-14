@@ -37,6 +37,12 @@
 
 ### [Git 常用命令清单](https://imanarron.github.io/git-cheat-sheet)
 
+### [GitFlow](https://imanarron.github.io/gitflow)
+
 # 操作系统
 
 ### [内存管理](https://imanarron.github.io/memory-management)
+
+# CI & CD
+
+### [移动端CI&CD方案探索](https://imanarron.github.io/ci-cd)
